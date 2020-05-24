@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+
+// eslint-disable-next-line no-unused-vars
 import scss from "./Main.module.scss";
 
 import RouteSite from "../RouteSite/RouteSite";
